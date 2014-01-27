@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background: black;
+  min-width: 960px;
+}
+
+h4 {
+  color: white;
+}
+
+rect {
+  fill: none;
+  pointer-events: all;
+}
+
+circle {
+  fill: none;
+  stroke-width: 2.5px;
+}
